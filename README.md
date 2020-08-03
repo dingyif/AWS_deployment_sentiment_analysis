@@ -14,6 +14,6 @@ Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/mas
   - RNN -> LSTM units with 32 embedding dim and 200 hidden_dim. 
   - 10 epcohs of training, Binary Cross Entropy Loss from 0.6656 dropped to 0.3045.
 5. Test the trained model (typically using a batch transform job).
-  - Accuracy ** 83.4% ** with only 10 epoches.
+  - Accuracy **83.4%** with only 10 epoches.
 6. Deploy the trained model.
 7. Use the deployed model.
